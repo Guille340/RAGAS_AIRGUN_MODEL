@@ -1,0 +1,9 @@
+{
+"souToRecDistance": 1000,
+"souToRecAzimuth": 0,
+"souToRecElevation": 90,
+"frequency": [],
+"radiationFormula": 2,
+"interaction": true,
+"radiationGhost": false
+}

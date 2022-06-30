@@ -1,0 +1,12 @@
+{
+"gunIds": [1,2,3,4],
+"duration": 0.5,
+"sampleRate": 10000,
+"waterDensity": [],
+"waterSoundSpeed": [],
+"waterTemperature": [],
+"waterSalinity": [],
+"bubbleMethod": "multiphysics",
+"bubbleFormula": "gilmore",
+"interactionGhost": true
+}
